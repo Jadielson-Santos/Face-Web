@@ -10,6 +10,6 @@
 * cd Face-Web
 * python Web.py
 ---
-###### Quando Inicia A Ferramenta Vai Parece Um Comando Para Se Executado Para Gera O Link Para Você Manda
+###### Quando A Ferramenta Inicia Vai Parece Um Comando Para Se Executado Para Gera O Link Para Você Manda
 
 ###### LEMBRANDO NAO ME RESPONSABILIZOR PELOS ATOS DE NINGUÉM
