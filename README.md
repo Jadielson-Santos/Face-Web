@@ -12,7 +12,7 @@
 ---
 ###### Inicio Da Ferramenta
 ![inicio](https://github.com/Jadielson-Santos/Face-Web/blob/master/img/inicio.png)
-)
+
 ---
 ###### Pagina Do Facebook
 ![pagina1](https://github.com/Jadielson-Santos/Face-Web/blob/master/img/pagina1.png)
