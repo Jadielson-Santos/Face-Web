@@ -11,5 +11,5 @@ while(True):
 Ferramenta De Phishing
 @ShadowS8
 <==========================>
-"""+"\n"+ler)
+"""+ler)
     break
